@@ -1,5 +1,5 @@
 task.spawn(function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/TheCoding-Hub/Mystrix/refs/heads/main/VISUAL"))()
+   loadstring(game:HttpGet("https://pastebin.com/raw/EfB40gj3"))()
 end)
 task.wait(0.2)
 
